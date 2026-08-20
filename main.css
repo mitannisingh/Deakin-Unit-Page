@@ -15,12 +15,11 @@ p {
 }
 
 div {
-
-background-color: #00A3A1;
-
-text-align: right;
-
+    background-color: blue;
+    text-align: right;
 }
+
+
 th, td {
 	padding: 8px;
 	text-align: left;
